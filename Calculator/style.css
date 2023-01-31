@@ -1,0 +1,48 @@
+/* *{
+    margin:0;
+    padding:0;
+    box-sizing: content-box;
+} */
+body{
+    background-color: rgb(179, 175, 175);
+}
+.c{
+margin-right: 97px;
+}
+
+h1{
+    text-align: center;
+    margin-right: 50px;
+}
+.main{
+    text-align: center;
+    background-color: whitesmoke;
+    width: 335px;
+    margin-left: 500px;
+    height: 40vh;
+    padding-left: 70px;
+    box-sizing: content-box;
+    margin-top: 200px
+}
+ input{
+    width: 184px;
+    float: left;
+}
+#btn{
+   
+    width: 40px;
+}
+#screen{
+    /* width: 170px; */
+    margin-right:2px;
+   
+}
+
+button{
+    justify-content: center;
+    text-align: center;
+    width: 60px;
+    background-color: rgb(26, 26, 232);
+    color: aliceblue;
+
+}
